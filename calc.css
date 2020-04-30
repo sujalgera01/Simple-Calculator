@@ -7,11 +7,14 @@
 body{
  min-height: 100vh;
  display: flex;
- align-items: center;
+ align-content: center;
  justify-content: center;
+ align-items: center;
 margin: auto;
+background: #ecf0f1;
+border: 2px solid #000;
+border-radius: 2px;
 }
-
 
 .screen{
  width: 100%;
